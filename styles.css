@@ -11,3 +11,9 @@ p {
     margin: 20%;
     color: red;
 }
+
+div {
+    display: flex;
+    flex-direction: row;
+    
+}
