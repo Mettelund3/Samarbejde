@@ -2,6 +2,11 @@ body{
     background-color: beige;
 }
 
+h1 {
+    display: block;
+    text-align: center;
+}
+
 p {
     margin: 20%;
     color: red;
